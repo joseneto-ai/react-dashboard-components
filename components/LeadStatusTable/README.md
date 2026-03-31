@@ -72,4 +72,3 @@ const leads = [
 
 - `README.md` — This documentation
 - `LeadStatusTable.jsx` — Component source code
-```
